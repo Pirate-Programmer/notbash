@@ -5,9 +5,9 @@ simple viable imperfect shell
 
 --------------------------------------------------
 <p>To compile the files run this cmd</p>
-<code>make notbash</code>
+<code>make notbash</code><br>
 --------------------------------------------------
 <p>To run the shell run this cmd</p>
-<code>make run</code>
+<code>make run</code><br>
 --------------------------------------------------
 
