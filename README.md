@@ -11,3 +11,5 @@ simple viable imperfect shell
 <code>make run</code><br>
 --------------------------------------------------
 
+CREDITS: @suspectedoceano 
+
